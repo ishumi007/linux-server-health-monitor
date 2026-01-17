@@ -66,7 +66,7 @@ python3 monitor.py
 ```
 
 ## Author
-Ishu Mishra
+Ishu Mishra  
 DevOps & Infrastructure Enthusiast 
 
 ## License
