@@ -52,8 +52,8 @@ not running, a warning is generated and logged with a timestamp.
 ```bash
 pip install -r requirements.txt
 python3 monitor.py
+```
 
-
-##Author
+## Author
 Ishu Mishra
 DevOps & Infrastructure Enthusiast 
