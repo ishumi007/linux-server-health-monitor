@@ -48,6 +48,17 @@ not running, a warning is generated and logged with a timestamp.
 
 ---
 
+
+## Setup (Recommended)
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate   # Linux / macOS
+# venv\Scripts\activate    # Windows
+```
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
