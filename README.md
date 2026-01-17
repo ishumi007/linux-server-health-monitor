@@ -57,3 +57,11 @@ python3 monitor.py
 ## Author
 Ishu Mishra
 DevOps & Infrastructure Enthusiast 
+
+## License
+MIT
+
+## Future Improvements
+- Docker support
+- Cron-based scheduling
+- Alerting via email/Slack
